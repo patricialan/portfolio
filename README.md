@@ -5,5 +5,4 @@ This repository contains my portfolio files.
 #### Portfolio Screenshot
 <INSERT SCREENSHOT>
 
-Click <[here](Mission-to-Mars)> to browse Mission To Mars project files.
- 
+Click <[here](https://github.com/patricialan/Mission-to-Mars.git)> to browse Mission To Mars project files.
