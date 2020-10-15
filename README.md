@@ -1,6 +1,5 @@
-# Portfolio
+# Project Portfolio
 
-Please visit [https://patricialan.github.io/portfolio/](https://patricialan.github.io/portfolio/) to view my portfolio.
+View my programming and data analytics projects at [https://patricialan.github.io/portfolio/](https://patricialan.github.io/portfolio/).
 
-#### Portfolio Screenshot
 ![portfolioScreenshot.png](screenshots/portfolioScreenshot.png)
